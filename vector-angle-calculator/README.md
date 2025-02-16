@@ -10,7 +10,7 @@ The program takes input values for the components of two vectors:
 It then calculates:  
 The **cosine of the angle (costh)** between the vectors using the dot product formula:
    
-![Screenshot 2025-02-16 132137](https://github.com/user-attachments/assets/47bdb6dc-f015-4d9d-9ea5-4c23e7d4328d)
+![2](https://github.com/user-attachments/assets/47bdb6dc-f015-4d9d-9ea5-4c23e7d4328d)
  
 Where: 
 
