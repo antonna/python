@@ -22,4 +22,4 @@ Where:
 2. Enter the values when prompted.
 3. View the calculated cosine and angle.
 
-### 🔗 [Udemy: Εισαγωγή στον Προγραμματισμό με Python](https://coursity.gr/)
+### 🔗 [Coursity: Εισαγωγή στον Προγραμματισμό με Python](https://coursity.gr/)
