@@ -14,7 +14,7 @@ The **cosine of the angle (costh)** between the vectors using the dot product fo
 
 Where: 
 
-
+![image](files://D:\Users\anton\Pictures\Screenshots/1.png)
 
 ## 🚀 Usage
 1. Run the script in Python.
