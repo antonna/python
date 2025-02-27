@@ -18,5 +18,4 @@ This Python script allows users to convert temperatures from **Celsius (°C) to 
 ## 🔹 Formula Used  
 \[
 °F = °C × 9/5 + 32
-°F = (°C \times \frac{9}{5}) + 32
 \]
