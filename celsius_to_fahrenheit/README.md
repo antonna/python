@@ -1,4 +1,4 @@
-# 🌡️ Celsius to Fahrenheit Converter (Python)
+# 🌡️ Celsius to Fahrenheit Converter
 
 This Python script allows users to convert temperatures from **Celsius (°C) to Fahrenheit (°F)**. It runs continuously until the user decides to exit.
 
@@ -19,3 +19,5 @@ This Python script allows users to convert temperatures from **Celsius (°C) to 
 \[
 °F = °C × 9/5 + 32
 \]
+
+### 🔗 [Coursity: Εισαγωγή στον Προγραμματισμό με Python](https://coursity.gr/)
