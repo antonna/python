@@ -11,3 +11,5 @@ A year is a **leap year** if:
 1. Run the script in Python.
 2. Enter a year when prompted.
 3. The program will determine whether it's a leap year.
+
+### 🔗 [Coursity: Εισαγωγή στον Προγραμματισμό με Python](https://coursity.gr/)
