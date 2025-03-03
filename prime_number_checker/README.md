@@ -12,3 +12,5 @@ A simple Python program that checks if a number is **prime**.
 1. Run the script in Python.
 2. Enter a number to check.
 3. The program will tell if it’s **prime or not**.
+
+### 🔗 [Coursity: Εισαγωγή στον Προγραμματισμό με Python](https://coursity.gr/)
