@@ -15,6 +15,7 @@ Here are some of the projects included in this repository:
 - [🌡️ Celcius to Fahrenheit converter](./celsius_to_fahrenheit/)
 - [🔢 Prime Number Checker](./prime_number_checker/)
 - [📆 Leap Year Checker](./leap_year/)
+- [🔢 Number to Words Converter](./number-to-words/)
 
 ## 🎯 Goal
 Improve my Python skills by exploring different concepts and building small projects.
